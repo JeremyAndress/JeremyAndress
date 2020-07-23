@@ -26,5 +26,6 @@ class Jeremy():
         ]
 
 ```
-
-<img align="center" src="https://media.giphy.com/media/Nzz86dByLtYTS/giphy.gif">
+<p align="justify">
+  <img src="https://media.giphy.com/media/Nzz86dByLtYTS/giphy.gif">
+</p>
