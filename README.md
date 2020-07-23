@@ -1,8 +1,9 @@
 ## Hola, Soy Jeremy :rocket:
 
-Ingeniero Informatico de [Duoc UC](https://www.duoc.cl/)
-Desarrollador Backend en [Qin Technology](http://www.qin.cl/)
-
+<p><em>
+Ingeniero Informatico de <a href="https://www.duoc.cl/">Duoc UC</a><br>
+Desarrollador Backend en <a href="http://www.qin.cl/">Qin Technology</a><br>
+</em></p>
 
 Sobre mí <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 ```python
@@ -25,3 +26,7 @@ class Jeremy():
         ]
 
 ```
+
+<img style=" display: block;
+  margin-left: auto;
+  margin-right: auto;" src="https://media.giphy.com/media/Nzz86dByLtYTS/giphy.gif">
