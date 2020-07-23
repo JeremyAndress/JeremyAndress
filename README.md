@@ -9,7 +9,7 @@ Sobre mí <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
 ```python
 class Jeremy():
     def __init__(self):
-        self.name = Jeremy Silva
+        self.name = 'Jeremy Silva'
         self.language = ['spanish']
         self.code = [
             'Python','Javascript',
