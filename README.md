@@ -5,7 +5,7 @@ Informatics Engineering at <a href="https://www.duoc.cl/">Duoc UC</a><br>
 Backend Developer at <a href="http://www.qin.cl/">Qin Technology</a><br>
 </em></p>
 
-Sobre mí <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+A little more about me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 ```python
 class Jeremy():
     def __init__(self):
