@@ -1,8 +1,8 @@
-## Hola, Soy Jeremy :rocket:
+## Hi, I'm Jeremy Silva, a Developer 🚀 from Chile.
 
 <p><em>
-Ingeniero Informatico de <a href="https://www.duoc.cl/">Duoc UC</a><br>
-Desarrollador Backend en <a href="http://www.qin.cl/">Qin Technology</a><br>
+Informatics Engineering at <a href="https://www.duoc.cl/">Duoc UC</a><br>
+Backend Developer at <a href="http://www.qin.cl/">Qin Technology</a><br>
 </em></p>
 
 Sobre mí <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
