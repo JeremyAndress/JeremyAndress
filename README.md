@@ -7,22 +7,29 @@ Backend Developer at <a href="http://www.qin.cl/">Qin Technology</a><br>
 
 A little more about me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 ```python
-class Jeremy():
-    def __init__(self):
+from typing import List
+
+
+class Jeremy:
+    def __init__(self) -> None:
         self.name = 'Jeremy Silva'
         self.language = ['spanish']
         self.code = [
             'Python', 'Javascript',
             'Typescript', 'HTML'
         ]
-    def frameworks(self):
+
+    @property
+    def frameworks(self) -> List[str]:
         return [
             'Django', 'Flask', 'FastApi',
             'React', 'Zato', 'Boostrap'
         ]
-    def developer_tools(self):
+
+    @property
+    def developer_tools(self) -> List[str]:
         return [
-            'Docker', 'Docker Swarm', 'Travis','Nginx'
+            'Docker', 'Travis', 'Nginx'
         ]
 
 ```
