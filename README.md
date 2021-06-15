@@ -2,7 +2,7 @@
 
 <p><em>
 Informatics Engineering at <a href="https://www.duoc.cl/">Duoc UC</a><br>
-Backend Developer at <a href="http://www.qin.cl/">Qin Technology</a><br>
+Software Development Engineer at <a href="https://www.simpliroute.com/">SimpliRoute</a><br>
 </em></p>
 
 A little more about me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
