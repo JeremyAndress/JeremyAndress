@@ -35,10 +35,6 @@ class Jeremy:
 ```
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=JeremyAndress&theme=tokyonight&show_icons=true">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=JeremyAndress&theme=tokyonight&show_icons=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyAndress&hide=jupyter%20notebook&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyAndress&hide=jupyter%20notebook&theme=tokyonight&langs_count=6&layout=compact" />
-</a>
+<img height="170"  align="left" src="https://github-readme-stats.vercel.app/api?username=JeremyAndress&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyAndress&hide=jupyter%20notebook&theme=tokyonight&langs_count=6&layout=compact" />
 </div>
